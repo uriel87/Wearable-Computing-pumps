@@ -1,0 +1,11 @@
+	* {margin:0px; padding:0px;}
+	
+	#container{max-width : 1000px ; margin : auto ;position : relative; padding: 300px; background-image: url("1.png"); background-size: 1400px 600px;}
+	
+	#information{ margin : auto ;float:left;max-width : 760px ;width:100%;z-index:-1;font-size:17px;text-align:right; font-family:"arial"; text-align:left;}
+	#td {padding: 25 px 50px ;}
+	#table.tr{margin:right;margin:100px;text-align:left;}
+
+
+	
+	
